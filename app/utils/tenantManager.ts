@@ -14,7 +14,7 @@ const tenants: Record<string, Tenant> = {
     logoUrl: '/images/expresscakesandevents-logo.png',
     slogan: 'No order is an emergency',
     cssVars: {
-      '--clr-accent-1': '#fb6f92',
+      '--clr-accent-1': '#ed117f',
       '--clr-accent-2': '#ed117f',
       // status colors
       '--clr-error': '#ba1c1c',
@@ -37,7 +37,7 @@ const tenants: Record<string, Tenant> = {
       // tertiary
       '--clr-bg-tertiary': '#232323',
       // accent-1
-      '--clr-bg-accent-1': '#fb6f92',
+      '--clr-bg-accent-1': '#ed117f',
       '--clr-txt-primary-on-bg-accent-1': '#fafafa',
       '--clr-txt-secondary-on-bg-accent-1': '#dbdbdb',
       '--clr-border-primary-on-bg-bg-accent-1': '#dbdbdb',
@@ -56,8 +56,8 @@ const tenants: Record<string, Tenant> = {
     logoUrl: '/images/royalbakeryandevents-logo.png',
     slogan: 'Taste the royal',
     cssVars: {
-      '--clr-accent-1': '#fb6f92',
-      '--clr-accent-2': '#ed117f',
+      '--clr-accent-1': '#bd5305',
+      '--clr-accent-2': '#bd5305',
       // status colors
       '--clr-error': '#ba1c1c',
       '--clr-success': '#157f3c',
@@ -79,13 +79,13 @@ const tenants: Record<string, Tenant> = {
       // tertiary
       '--clr-bg-tertiary': '#232323',
       // accent-1
-      '--clr-bg-accent-1': '#fb6f92',
+      '--clr-bg-accent-1': '#bd5305',
       '--clr-txt-primary-on-bg-accent-1': '#fafafa',
       '--clr-txt-secondary-on-bg-accent-1': '#dbdbdb',
       '--clr-border-primary-on-bg-bg-accent-1': '#dbdbdb',
       '--clr-border-secondary-on-bg-accent-1': '#b8b8b8',
       // accent-2
-      '--clr-bg-accent-2': '#ed117f',
+      '--clr-bg-accent-2': '#bd5305',
       '--clr-txt-primary-on-bg-accent-2': '#f5f5f5',
       '--clr-txt-secondary-on-bg-accent-2': '#dbdbdb',
       '--clr-border-primary-on-bg-bg-accent-2': '#e6e6e6',
@@ -98,8 +98,8 @@ const tenants: Record<string, Tenant> = {
     logoUrl: '/images/skycakesandevents-logo.png',
     slogan: 'A bliss in every taste',
     cssVars: {
-      '--clr-accent-1': '#fb6f92',
-      '--clr-accent-2': '#ed117f',
+      '--clr-accent-1': '#ff3aea',
+      '--clr-accent-2': '#ff3aea',
       // status colors
       '--clr-error': '#ba1c1c',
       '--clr-success': '#157f3c',
@@ -121,13 +121,13 @@ const tenants: Record<string, Tenant> = {
       // tertiary
       '--clr-bg-tertiary': '#232323',
       // accent-1
-      '--clr-bg-accent-1': '#fb6f92',
+      '--clr-bg-accent-1': '#ff3aea',
       '--clr-txt-primary-on-bg-accent-1': '#fafafa',
       '--clr-txt-secondary-on-bg-accent-1': '#dbdbdb',
       '--clr-border-primary-on-bg-bg-accent-1': '#dbdbdb',
       '--clr-border-secondary-on-bg-accent-1': '#b8b8b8',
       // accent-2
-      '--clr-bg-accent-2': '#ed117f',
+      '--clr-bg-accent-2': '#ff3aea',
       '--clr-txt-primary-on-bg-accent-2': '#f5f5f5',
       '--clr-txt-secondary-on-bg-accent-2': '#dbdbdb',
       '--clr-border-primary-on-bg-bg-accent-2': '#e6e6e6',
@@ -140,8 +140,8 @@ const tenants: Record<string, Tenant> = {
     logoUrl: '/images/cakevibesandevents-logo.png',
     slogan: 'Service beyond expectation',
     cssVars: {
-      '--clr-accent-1': '#fb6f92',
-      '--clr-accent-2': '#ed117f',
+      '--clr-accent-1': '#dc9548',
+      '--clr-accent-2': '#dc9548',
       // status colors
       '--clr-error': '#ba1c1c',
       '--clr-success': '#157f3c',
@@ -163,13 +163,13 @@ const tenants: Record<string, Tenant> = {
       // tertiary
       '--clr-bg-tertiary': '#232323',
       // accent-1
-      '--clr-bg-accent-1': '#fb6f92',
+      '--clr-bg-accent-1': '#dc9548',
       '--clr-txt-primary-on-bg-accent-1': '#fafafa',
       '--clr-txt-secondary-on-bg-accent-1': '#dbdbdb',
       '--clr-border-primary-on-bg-bg-accent-1': '#dbdbdb',
       '--clr-border-secondary-on-bg-accent-1': '#b8b8b8',
       // accent-2
-      '--clr-bg-accent-2': '#ed117f',
+      '--clr-bg-accent-2': '#dc9548',
       '--clr-txt-primary-on-bg-accent-2': '#f5f5f5',
       '--clr-txt-secondary-on-bg-accent-2': '#dbdbdb',
       '--clr-border-primary-on-bg-bg-accent-2': '#e6e6e6',
@@ -182,8 +182,8 @@ const tenants: Record<string, Tenant> = {
     logoUrl: '/images/victorycakesandevents-logo.png',
     slogan: 'Heavenly exceptional taste',
     cssVars: {
-      '--clr-accent-1': '#fb6f92',
-      '--clr-accent-2': '#ed117f',
+      '--clr-accent-1': '#ef018d',
+      '--clr-accent-2': '#ef018d',
       // status colors
       '--clr-error': '#ba1c1c',
       '--clr-success': '#157f3c',
@@ -205,13 +205,13 @@ const tenants: Record<string, Tenant> = {
       // tertiary
       '--clr-bg-tertiary': '#232323',
       // accent-1
-      '--clr-bg-accent-1': '#fb6f92',
+      '--clr-bg-accent-1': '#ef018d',
       '--clr-txt-primary-on-bg-accent-1': '#fafafa',
       '--clr-txt-secondary-on-bg-accent-1': '#dbdbdb',
       '--clr-border-primary-on-bg-bg-accent-1': '#dbdbdb',
       '--clr-border-secondary-on-bg-accent-1': '#b8b8b8',
       // accent-2
-      '--clr-bg-accent-2': '#ed117f',
+      '--clr-bg-accent-2': '#ef018d',
       '--clr-txt-primary-on-bg-accent-2': '#f5f5f5',
       '--clr-txt-secondary-on-bg-accent-2': '#dbdbdb',
       '--clr-border-primary-on-bg-bg-accent-2': '#e6e6e6',
@@ -224,8 +224,8 @@ const tenants: Record<string, Tenant> = {
     logoUrl: '/images/grandcakesandevents-logo.png',
     slogan: 'Make your day historical & memorable with our cakes and decoration',
     cssVars: {
-      '--clr-accent-1': '#fb6f92',
-      '--clr-accent-2': '#ed117f',
+      '--clr-accent-1': '#bd8228',
+      '--clr-accent-2': '#bd8228',
       // status colors
       '--clr-error': '#ba1c1c',
       '--clr-success': '#157f3c',
@@ -247,13 +247,13 @@ const tenants: Record<string, Tenant> = {
       // tertiary
       '--clr-bg-tertiary': '#232323',
       // accent-1
-      '--clr-bg-accent-1': '#fb6f92',
+      '--clr-bg-accent-1': '#bd8228',
       '--clr-txt-primary-on-bg-accent-1': '#fafafa',
       '--clr-txt-secondary-on-bg-accent-1': '#dbdbdb',
       '--clr-border-primary-on-bg-bg-accent-1': '#dbdbdb',
       '--clr-border-secondary-on-bg-accent-1': '#b8b8b8',
       // accent-2
-      '--clr-bg-accent-2': '#ed117f',
+      '--clr-bg-accent-2': '#bd8228',
       '--clr-txt-primary-on-bg-accent-2': '#f5f5f5',
       '--clr-txt-secondary-on-bg-accent-2': '#dbdbdb',
       '--clr-border-primary-on-bg-bg-accent-2': '#e6e6e6',
@@ -266,8 +266,8 @@ const tenants: Record<string, Tenant> = {
     logoUrl: '/images/deluxecakeplanetandevents-logo.png',
     slogan: 'Making your celebrations sweeter',
     cssVars: {
-      '--clr-accent-1': '#fb6f92',
-      '--clr-accent-2': '#ed117f',
+      '--clr-accent-1': '#e2000a',
+      '--clr-accent-2': '#e2000a',
       // status colors
       '--clr-error': '#ba1c1c',
       '--clr-success': '#157f3c',
@@ -289,13 +289,13 @@ const tenants: Record<string, Tenant> = {
       // tertiary
       '--clr-bg-tertiary': '#232323',
       // accent-1
-      '--clr-bg-accent-1': '#fb6f92',
+      '--clr-bg-accent-1': '#e2000a',
       '--clr-txt-primary-on-bg-accent-1': '#fafafa',
       '--clr-txt-secondary-on-bg-accent-1': '#dbdbdb',
       '--clr-border-primary-on-bg-bg-accent-1': '#dbdbdb',
       '--clr-border-secondary-on-bg-accent-1': '#b8b8b8',
       // accent-2
-      '--clr-bg-accent-2': '#ed117f',
+      '--clr-bg-accent-2': '#e2000a',
       '--clr-txt-primary-on-bg-accent-2': '#f5f5f5',
       '--clr-txt-secondary-on-bg-accent-2': '#dbdbdb',
       '--clr-border-primary-on-bg-bg-accent-2': '#e6e6e6',
@@ -308,8 +308,8 @@ const tenants: Record<string, Tenant> = {
     logoUrl: '/images/ultimatecakepalaceandevents-logo.png',
     slogan: 'Taste the greatness',
     cssVars: {
-      '--clr-accent-1': '#fb6f92',
-      '--clr-accent-2': '#ed117f',
+      '--clr-accent-1': '#f3172f',
+      '--clr-accent-2': '#f3172f',
       // status colors
       '--clr-error': '#ba1c1c',
       '--clr-success': '#157f3c',
@@ -331,13 +331,13 @@ const tenants: Record<string, Tenant> = {
       // tertiary
       '--clr-bg-tertiary': '#232323',
       // accent-1
-      '--clr-bg-accent-1': '#fb6f92',
+      '--clr-bg-accent-1': '#f3172f',
       '--clr-txt-primary-on-bg-accent-1': '#fafafa',
       '--clr-txt-secondary-on-bg-accent-1': '#dbdbdb',
       '--clr-border-primary-on-bg-bg-accent-1': '#dbdbdb',
       '--clr-border-secondary-on-bg-accent-1': '#b8b8b8',
       // accent-2
-      '--clr-bg-accent-2': '#ed117f',
+      '--clr-bg-accent-2': '#f3172f',
       '--clr-txt-primary-on-bg-accent-2': '#f5f5f5',
       '--clr-txt-secondary-on-bg-accent-2': '#dbdbdb',
       '--clr-border-primary-on-bg-bg-accent-2': '#e6e6e6',
