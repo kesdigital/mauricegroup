@@ -470,14 +470,56 @@ const tenants: Record<string, Tenant> = {
       '--clr-border-secondary-on-bg-accent-2': '#cccccc',
     },
   },
-  'yummiliciousandevents.keshosting.com': {
-    id: 'yummiliciousandevents',
-    name: 'Yummilicious & Events',
-    logoUrl: '/images/yummiliciousandevents-logo.png',
+  'yummiliciouscakesandevents.keshosting.com': {
+    id: 'yummiliciouscakesandevents',
+    name: 'Yummilicious Cakes & Events',
+    logoUrl: '/images/yummiliciouscakesandevents-logo.png',
     slogan: 'Taste the greatness',
     cssVars: {
       '--clr-accent-1': '#f6020b',
       '--clr-accent-2': '#f6020b',
+      // status colors
+      '--clr-error': '#ba1c1c',
+      '--clr-success': '#157f3c',
+      '--clr-info': '#2463eb',
+      '--clr-warning': '#c88a04',
+      // BACKGROUND COLORS
+      // primary
+      '--clr-bg-primary': '#ffffff',
+      '--clr-txt-primary-on-bg-primary': '#000000',
+      '--clr-txt-secondary-on-bg-primary': '#292929',
+      '--clr-border-primary-on-bg-bg-primary': '#000000',
+      '--clr-border-secondary-on-bg-bg-primary': '#292929',
+      // secondary
+      '--clr-bg-secondary': '#fdedf0',
+      '--clr-txt-primary-on-bg-secondary': '#000000',
+      '--clr-txt-secondary-on-bg-secondary': '#292929',
+      '--clr-border-primary-on-bg-bg-secondary': '#000000',
+      '--clr-border-secondary-on-bg-bg-secondary': '#292929',
+      // tertiary
+      '--clr-bg-tertiary': '#232323',
+      // accent-1
+      '--clr-bg-accent-1': '#f3172f',
+      '--clr-txt-primary-on-bg-accent-1': '#fafafa',
+      '--clr-txt-secondary-on-bg-accent-1': '#dbdbdb',
+      '--clr-border-primary-on-bg-bg-accent-1': '#dbdbdb',
+      '--clr-border-secondary-on-bg-accent-1': '#b8b8b8',
+      // accent-2
+      '--clr-bg-accent-2': '#f3172f',
+      '--clr-txt-primary-on-bg-accent-2': '#f5f5f5',
+      '--clr-txt-secondary-on-bg-accent-2': '#dbdbdb',
+      '--clr-border-primary-on-bg-bg-accent-2': '#e6e6e6',
+      '--clr-border-secondary-on-bg-accent-2': '#cccccc',
+    },
+  },
+  'legacycakesandevents.keshosting.com': {
+    id: 'legacycakesandevents',
+    name: 'Legacy Cakes & Events',
+    logoUrl: '/images/legacycakesandevents-logo.png',
+    slogan: 'Taste the greatness',
+    cssVars: {
+      '--clr-accent-1': '#ff0077',
+      '--clr-accent-2': '#ff0077',
       // status colors
       '--clr-error': '#ba1c1c',
       '--clr-success': '#157f3c',
